@@ -70,7 +70,7 @@ A short, specific description of what you learned or built with this project.
 
 - **Stack:** `[PLACEHOLDER: technology 1]`, `[PLACEHOLDER: technology 2]`
 - **Role:** `[PLACEHOLDER: your contribution or responsibility]`
-- **[View repository →](https://github.com/ibro-3/REPLACE_WITH_REPOSITORY)** · **[Live demo →](https://example.com/REPLACE_WITH_DEMO_URL)`
+- **[View repository →](https://github.com/ibro-3/REPLACE_WITH_REPOSITORY)** · **[Live demo →](https://example.com/REPLACE_WITH_DEMO_URL)**
 
 ## Skills & Tools
 
