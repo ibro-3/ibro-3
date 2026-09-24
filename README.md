@@ -54,7 +54,7 @@ A short, specific description of the problem this project solves and its most im
 
 - **Stack:** `[PLACEHOLDER: technology 1]`, `[PLACEHOLDER: technology 2]`
 - **Role:** `[PLACEHOLDER: your contribution or responsibility]`
-- **[View repository →](https://github.com/ibro-3/[PLACEHOLDER])** · **[Live demo →]([PLACEHOLDER])**
+- **[View repository →](https://github.com/ibro-3/REPLACE_WITH_REPOSITORY)** · **[Live demo →](https://example.com/REPLACE_WITH_DEMO_URL)**
 
 ### 2. [Project Two]
 
@@ -62,7 +62,7 @@ A short, specific description of the project and why it is useful or interesting
 
 - **Stack:** `[PLACEHOLDER: technology 1]`, `[PLACEHOLDER: technology 2]`
 - **Role:** `[PLACEHOLDER: your contribution or responsibility]`
-- **[View repository →](https://github.com/ibro-3/[PLACEHOLDER])** · **[Live demo →]([PLACEHOLDER])**
+- **[View repository →](https://github.com/ibro-3/REPLACE_WITH_REPOSITORY)** · **[Live demo →](https://example.com/REPLACE_WITH_DEMO_URL)**
 
 ### 3. [Project Three]
 
@@ -70,7 +70,7 @@ A short, specific description of what you learned or built with this project.
 
 - **Stack:** `[PLACEHOLDER: technology 1]`, `[PLACEHOLDER: technology 2]`
 - **Role:** `[PLACEHOLDER: your contribution or responsibility]`
-- **[View repository →](https://github.com/ibro-3/[PLACEHOLDER])** · **[Live demo →]([PLACEHOLDER])`
+- **[View repository →](https://github.com/ibro-3/REPLACE_WITH_REPOSITORY)** · **[Live demo →](https://example.com/REPLACE_WITH_DEMO_URL)`
 
 ## Skills & Tools
 
@@ -93,26 +93,18 @@ A short, specific description of what you learned or built with this project.
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibro-3&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Ibro's GitHub statistics" height="180" />
+  <img src="https://ghstats.dev/api/card?username=ibro-3&theme=light&size=compact&show_ring=false&hide=stars,prs,issues,avg,active_day,grade,contributions,repos,followers" alt="Ibro's GitHub activity statistics" height="176" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibro-3&layout=compact&theme=default&hide_border=true" alt="Ibro's most used languages" height="120" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibro-3&theme=default&hide_border=true&area=true" alt="Ibro's GitHub activity graph" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibro-3&theme=default&hideBorder=true" alt="Ibro's GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibro-3&theme=github" alt="Ibro's most used languages" height="200" />
 </div>
 
 ## Writing & Interests
 
 ### Latest Notes
 
-- **[PLACEHOLDER: Article title]** — A short summary of the idea or lesson. · `[Read →]([PLACEHOLDER])`
-- **[PLACEHOLDER: Article title]** — A short summary of the idea or lesson. · `[Read →]([PLACEHOLDER])`
-- **[PLACEHOLDER: Article title]** — A short summary of the idea or lesson. · `[Read →]([PLACEHOLDER])`
+- **[PLACEHOLDER: Article title]** — A short summary of the idea or lesson. · [Read →](https://example.com/REPLACE_WITH_ARTICLE_URL)
+- **[PLACEHOLDER: Article title]** — A short summary of the idea or lesson. · [Read →](https://example.com/REPLACE_WITH_ARTICLE_URL)
+- **[PLACEHOLDER: Article title]** — A short summary of the idea or lesson. · [Read →](https://example.com/REPLACE_WITH_ARTICLE_URL)
 
 ### Things I'm Into
 
@@ -126,9 +118,9 @@ A short, specific description of what you learned or built with this project.
 
 <p align="center">
   <a href="https://github.com/ibro-3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="[PLACEHOLDER: LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[PLACEHOLDER: email address]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[PLACEHOLDER: portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/REPLACE_WITH_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://example.com/REPLACE_WITH_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">Open to thoughtful conversations, collaboration, and ambitious ideas.</p>
