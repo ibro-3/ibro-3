@@ -1,0 +1,17 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#EDE0FF" /><stop offset="100%" stop-color="#D5B8FF" /></linearGradient></defs>
+<rect x="0" y="0" width="1200" height="320" fill="url(#grad1)" stroke="none" stroke-width="0" rx="0" />
+
+<circle cx="1020" cy="288" r="140" fill="#7C6C93" stroke="none" stroke-width="0" fill-opacity="0.35" />
+<circle cx="180" cy="32" r="110" fill="#EDE0FF" stroke="none" stroke-width="0" fill-opacity="0.35" />
+<circle cx="600" cy="160" r="200" fill="#4C00B8" stroke="none" stroke-width="0" fill-opacity="0.15" />
+<path d="M120 224 Q360 288 600 224 Q840 160 1080 224" fill="none" stroke="#1A1A1A" stroke-width="3" />
+
+<defs><clipPath id="avatarClip"><circle cx="120" cy="110" r="70" /></clipPath></defs>
+<image href="" x="50" y="40" width="140" height="140" clip-path="url(#avatarClip)" />
+<circle cx="120" cy="110" r="70" fill="none" stroke="#7D738C" stroke-width="3" fill-opacity="1" />
+
+<text x="230" y="105" fill="#7D738C" font-size="42" font-weight="700" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" text-anchor="start" dominant-baseline="alphabetic">ibro-3</text>
+<text x="230" y="150" fill="#D5B8FF" font-size="26" font-weight="500" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" text-anchor="start" dominant-baseline="alphabetic">@ibro-3</text>
+<text x="230" y="200" fill="#220052" font-size="20" font-weight="400" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" text-anchor="start" dominant-baseline="alphabetic">Expressive Profile • Material3</text>
+</svg>

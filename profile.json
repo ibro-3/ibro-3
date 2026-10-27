@@ -1,0 +1,44 @@
+{
+  "username": "ibro-3",
+  "branch": "main",
+  "seedColor": "#6200ee",
+  "theme": "light",
+  "blocks": [
+    {
+      "id": "header",
+      "type": "header",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "about",
+      "type": "about",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "stats",
+      "type": "stats",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "tech",
+      "type": "tech",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "projects",
+      "type": "projects",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "buttons",
+      "type": "buttons",
+      "visible": true,
+      "order": 5
+    }
+  ]
+}
