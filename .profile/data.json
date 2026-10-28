@@ -1,0 +1,291 @@
+{
+ "key": "574c0be1",
+ "stars": 1,
+ "contributions": 114,
+ "repos": 10,
+ "followers": 0,
+ "languages": [
+  [
+   "Dart",
+   1692283
+  ],
+  [
+   "Rust",
+   1446930
+  ],
+  [
+   "JavaScript",
+   363253
+  ],
+  [
+   "CSS",
+   195814
+  ],
+  [
+   "HTML",
+   156604
+  ],
+  [
+   "Jupyter Notebook",
+   127986
+  ],
+  [
+   "Python",
+   106578
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 3,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 7,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 28,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 7,
+  "longest": 7
+ },
+ "pins": [
+  {
+   "name": "ytdlp",
+   "url": "https://github.com/ibro-3/ytdlp",
+   "text": "Flutter app that downloads media from 1000+ sites via bundled yt-dlp and ffmpeg",
+   "fork": false,
+   "stars": 1,
+   "language": "Dart",
+   "topics": [
+    "dart",
+    "downloader",
+    "flutter",
+    "yt-dlp"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "ytdlp",
+   "url": "https://github.com/ibro-3/ytdlp",
+   "text": "Flutter app that downloads media from 1000+ sites via bundled yt-dlp and ffmpeg",
+   "fork": false,
+   "stars": 1,
+   "language": "Dart",
+   "topics": [
+    "dart",
+    "downloader",
+    "flutter",
+    "yt-dlp"
+   ]
+  },
+  {
+   "name": "mailin",
+   "url": "https://github.com/ibro-3/mailin",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "ibro-3",
+   "url": "https://github.com/ibro-3/ibro-3",
+   "text": "Personal GitHub profile and project showcase",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "musicpl",
+   "url": "https://github.com/ibro-3/musicpl",
+   "text": "Flutter music player with playlists, folders, and audio notifications",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "audio",
+    "flutter",
+    "music-player"
+   ]
+  },
+  {
+   "name": "crm",
+   "url": "https://github.com/ibro-3/crm",
+   "text": "Full-stack Django + React CRM with contacts, leads, deals, Docker, and PostgreSQL",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "crm",
+    "django",
+    "docker",
+    "postgresql",
+    "react"
+   ]
+  },
+  {
+   "name": "TextClassification",
+   "url": "https://github.com/ibro-3/TextClassification",
+   "text": "Text classification on mental-health text with scikit-learn pipelines",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": [
+    "jupyter",
+    "mental-health",
+    "nlp",
+    "scikit-learn",
+    "text-classification"
+   ]
+  },
+  {
+   "name": "SpellingCorrection",
+   "url": "https://github.com/ibro-3/SpellingCorrection",
+   "text": "Spelling correction GUI using a bigram language model and Double Metaphone",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "language-model",
+    "nlp",
+    "python",
+    "spelling-correction"
+   ]
+  },
+  {
+   "name": "component-library",
+   "url": "https://github.com/ibro-3/component-library",
+   "text": "React component library with Storybook docs, Vitest tests, and dark-mode support",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "component-library",
+    "react",
+    "storybook",
+    "vitest"
+   ]
+  },
+  {
+   "name": "react-dashboard",
+   "url": "https://github.com/ibro-3/react-dashboard",
+   "text": "Responsive React dashboard with charts, routing, forms, and dark mode",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "charts",
+    "dashboard",
+    "react",
+    "vite"
+   ]
+  },
+  {
+   "name": "tasks",
+   "url": "https://github.com/ibro-3/tasks",
+   "text": "Flutter todo app with smart task lists, reminders, themes, and local notifications",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": [
+    "dart",
+    "flutter",
+    "notifications",
+    "todo-app"
+   ]
+  }
+ ]
+}
