@@ -1,8 +1,8 @@
 {
- "key": "574c0be1",
+ "key": "31f6249a",
  "stars": 1,
- "contributions": 114,
- "repos": 10,
+ "contributions": 118,
+ "repos": 11,
  "followers": 0,
  "languages": [
   [
@@ -15,23 +15,23 @@
   ],
   [
    "JavaScript",
-   363253
+   725814
   ],
   [
    "CSS",
-   195814
+   220285
   ],
   [
    "HTML",
-   156604
+   157331
+  ],
+  [
+   "TypeScript",
+   132908
   ],
   [
    "Jupyter Notebook",
    127986
-  ],
-  [
-   "Python",
-   106578
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 3,
     "day": 28,
     "today": true
    },
@@ -169,6 +169,15 @@
     "flutter",
     "yt-dlp"
    ]
+  },
+  {
+   "name": "material3-github-profile",
+   "url": "https://github.com/ibro-3/material3-github-profile",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
   },
   {
    "name": "mailin",
