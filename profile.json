@@ -1,9 +1,9 @@
 {
   "version": 1,
   "login": "ibro-3",
-  "seed": "#7AB4E0",
+  "seed": "#7BB5DF",
   "seedFromAvatar": true,
-  "scheme": "tonalSpot",
+  "scheme": "vibrant",
   "motion": true,
   "iconFill": true,
   "order": [
