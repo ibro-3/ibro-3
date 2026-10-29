@@ -1,25 +1,25 @@
 {
   "version": 1,
   "login": "ibro-3",
-  "seed": "#7BB4DF",
+  "seed": "#7AB4E0",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
     "about",
     "stack",
     "projects",
     "stats",
     "streak",
+    "socials",
     "wave",
     "buttons"
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Het there I'm",
     "name": "",
     "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
@@ -31,7 +31,7 @@
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "React · Flutter"
       }
     ]
   },
@@ -40,14 +40,14 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Developer "
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Frontend and Mobile"
       },
       {
-        "icon": "palette",
+        "icon": "heart_plus",
         "label": "Into Material Design"
       }
     ]
@@ -67,8 +67,16 @@
             "label": "React"
           },
           {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
             "icon": "brand:python",
-            "label": "Python"
+            "label": "Pyhhon"
           }
         ]
       },
@@ -80,12 +88,16 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "coding agents"
           }
         ]
       }
