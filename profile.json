@@ -1,19 +1,19 @@
 {
   "version": 1,
   "login": "ibro-3",
-  "seed": "#7BB5DF",
+  "seed": "#7CB4E0",
   "seedFromAvatar": true,
   "scheme": "vibrant",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
+    "socials",
     "about",
     "stack",
     "projects",
     "stats",
     "streak",
-    "socials",
     "wave",
     "buttons"
   ],
