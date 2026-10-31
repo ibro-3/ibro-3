@@ -3,7 +3,7 @@
   "login": "ibro-3",
   "seed": "#7CB4E0",
   "seedFromAvatar": true,
-  "scheme": "vibrant",
+  "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
@@ -19,11 +19,11 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Het there I'm",
+    "greeting": "Hey there, I'm",
     "name": "",
     "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
-    "avatarShape": "cookie",
+    "avatarShape": "clover",
     "chips": [
       {
         "icon": "location_on",
@@ -31,24 +31,24 @@
       },
       {
         "icon": "code",
-        "label": "React · Flutter"
+        "label": "TypeScript · Python"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "What I do",
     "items": [
       {
-        "icon": "person",
-        "label": "Developer "
-      },
-      {
         "icon": "code",
-        "label": "Frontend and Mobile"
+        "label": "Full-stack developer"
       },
       {
-        "icon": "heart_plus",
-        "label": "Into Material Design"
+        "icon": "brush",
+        "label": "UI/UX enthusiast"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "Open source contributor"
       }
     ]
   },
@@ -56,27 +56,23 @@
     "title": "Tech stack",
     "groups": [
       {
-        "title": "Main",
+        "title": "Languages",
         "items": [
           {
             "icon": "brand:typescript",
             "label": "TypeScript"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
-            "icon": "brand:flutter",
-            "label": "Flutter"
+            "icon": "brand:python",
+            "label": "Python"
           },
           {
             "icon": "brand:rust",
             "label": "Rust"
           },
           {
-            "icon": "brand:python",
-            "label": "Pyhhon"
+            "icon": "brand:go",
+            "label": "Go"
           }
         ]
       },
@@ -88,16 +84,16 @@
             "label": "Git"
           },
           {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
           },
           {
-            "icon": "brand:linux",
-            "label": "Linux"
-          },
-          {
-            "icon": "brand:claudecode",
-            "label": "coding agents"
+            "icon": "brand:vscode",
+            "label": "VS Code"
           }
         ]
       }
@@ -107,13 +103,11 @@
     "source": "manual",
     "repos": [
       "ytdlp",
-      "mailin",
       "tasks",
-      "crm"
+      "mailin",
+      "react-dashboard"
     ],
-    "overrides": {
-      "ytdlp": {}
-    },
+    "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -137,16 +131,16 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "icon": "brand:github",
+        "url": "https://github.com/ibro-3"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "icon": "brand:linkedin",
+        "url": "https://linkedin.com/in/ibro-3"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:twitter",
+        "url": "https://x.com/ibro_3"
       }
     ],
     "variant": "chip",
