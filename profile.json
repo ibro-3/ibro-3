@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "ibro-3",
-  "seed": "#7CB4E0",
+  "seed": "#7BB5E0",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -23,7 +23,7 @@
     "name": "",
     "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
-    "avatarShape": "clover",
+    "avatarShape": "cookie",
     "chips": [
       {
         "icon": "location_on",
@@ -69,10 +69,6 @@
           {
             "icon": "brand:rust",
             "label": "Rust"
-          },
-          {
-            "icon": "brand:go",
-            "label": "Go"
           }
         ]
       },
@@ -92,7 +88,7 @@
             "label": "GitHub Actions"
           },
           {
-            "icon": "brand:vscode",
+            "icon": "code_xml",
             "label": "VS Code"
           }
         ]

@@ -18,4 +18,4 @@
 @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
 @keyframes wght{from{font-variation-settings:'ROND' 100,'wght' 400}to{font-variation-settings:'ROND' 100,'wght' 760}}
 @keyframes wave{from{transform:translateX(0)}to{transform:translateX(-48px)}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><rect width="127.21600000000001" height="88" fill="#181c20"/><g transform="translate(4 20)"><g class="pop" style="animation-delay:0.12s"><rect x="1" y="1" width="116.2" height="46" rx="24" fill="#394956"/><text x="52.0" y="30.0" fill="#d3e5f6" text-anchor="start" style="font-size:16px;font-weight:600;">x.com</text></g></g></svg>
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><rect width="127.21600000000001" height="88" fill="#181c20"/><g transform="translate(4 20)"><g class="pop" style="animation-delay:0.12s"><rect x="1" y="1" width="116.2" height="46" rx="24" fill="#384956"/><text x="52.0" y="30.0" fill="#d3e5f5" text-anchor="start" style="font-size:16px;font-weight:600;">x.com</text></g></g></svg>
