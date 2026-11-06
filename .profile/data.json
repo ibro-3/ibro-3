@@ -1,13 +1,13 @@
 {
- "key": "c73bdb37",
+ "key": "95ed919",
  "stars": 1,
- "contributions": 174,
+ "contributions": 175,
  "repos": 11,
  "followers": 0,
  "languages": [
   [
    "Rust",
-   2809821
+   2827450
   ],
   [
    "Dart",
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
