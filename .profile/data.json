@@ -1,5 +1,5 @@
 {
- "key": "3200ecc3",
+ "key": "e5def84b",
  "stars": 1,
  "contributions": 286,
  "repos": 11,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 16,
+  "current": 0,
   "longest": 16
  },
  "pins": [
