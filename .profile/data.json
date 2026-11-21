@@ -1,13 +1,13 @@
 {
- "key": "8ccd3f18",
+ "key": "ddeb01ba",
  "stars": 1,
- "contributions": 312,
+ "contributions": 369,
  "repos": 11,
  "followers": 0,
  "languages": [
   [
    "Rust",
-   3629992
+   4288277
   ],
   [
    "Dart",
@@ -131,25 +131,25 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 19,
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 20,
     "today": false
    },
    {
-    "c": 0,
+    "c": 51,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
-  "longest": 19
+  "current": 22,
+  "longest": 22
  },
  "pins": [
   {
