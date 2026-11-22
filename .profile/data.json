@@ -1,8 +1,8 @@
 {
- "key": "ae2ab6f2",
+ "key": "db3ca304",
  "stars": 1,
- "contributions": 371,
- "repos": 11,
+ "contributions": 377,
+ "repos": 12,
  "followers": 0,
  "languages": [
   [
@@ -11,11 +11,11 @@
   ],
   [
    "Dart",
-   1750471
+   1788098
   ],
   [
    "JavaScript",
-   728742
+   1092025
   ],
   [
    "CSS",
@@ -23,7 +23,7 @@
   ],
   [
    "HTML",
-   157331
+   159462
   ],
   [
    "TypeScript",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 8,
     "day": 22,
     "today": true
    },
@@ -157,6 +157,15 @@
     "flutter",
     "yt-dlp"
    ]
+  },
+  {
+   "name": "nowpill",
+   "url": "https://github.com/ibro-3/nowpill",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
   },
   {
    "name": "material3-github-profile",
