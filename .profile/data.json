@@ -1,5 +1,5 @@
 {
- "key": "db3ca304",
+ "key": "c592a3c7",
  "stars": 1,
  "contributions": 377,
  "repos": 12,
@@ -11,7 +11,7 @@
   ],
   [
    "Dart",
-   1788098
+   1928713
   ],
   [
    "JavaScript",
@@ -113,9 +113,13 @@
    {
     "c": 8,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
