@@ -1,7 +1,7 @@
 {
- "key": "ad7fba3a",
+ "key": "2fb514b6",
  "stars": 1,
- "contributions": 417,
+ "contributions": 418,
  "repos": 12,
  "followers": 0,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "Dart",
-   2852328
+   2873323
   ],
   [
    "JavaScript",
@@ -121,11 +121,15 @@
     "today": false
    },
    {
-    "c": 12,
+    "c": 13,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
